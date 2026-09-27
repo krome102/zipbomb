@@ -1,4 +1,4 @@
-#wacky but works
+# wacky but works
 # fellow skids use with caution thanks i am not responsible for your dogshit social engineering
 
 "zip64bomb"
